@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InstructionsScene
+comment0.text=\n\ InstructionsScene\ Class\ -\ reponsible\ for\ creating\ the\ graphic\ interface\ of\ the\ instructions\ scene\n\ @author\ Samu\n\n
+comment1.params=
+comment1.target=javafx.scene.Parent\ createInstructions()
+comment1.text=\n\ Method\ that\ creates\ a\ new\ Pane\ and\ adds\ an\ image\ background,\ the\ instructions\ obtained\ from\ a\ text\ file\ and\ a\ button\ to\ it\n\ @return\ root\n
+numComments=2

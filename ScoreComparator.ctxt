@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=score1\ score2
+comment0.target=int\ compare(Score,\ Score)
+comment0.text=\r\n\ Method\ used\ to\ compare\ two\ scores\r\n\ @param\ score1\ -\ first\ score\ to\ be\ compared\r\n\ @param\ score2\ -\ second\ score\ to\ be\ compared\r\n
+numComments=1

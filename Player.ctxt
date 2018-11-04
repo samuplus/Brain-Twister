@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javafx.scene.shape.Polygon\ createGreenAvatar()
+comment0.text=\r\n\ Method\ that\ draws\ a\ polygon\ given\ the\ coordinates\ and\ other\ characteristics\r\n\ @return\ greenAvatar\ of\ type\ Polygon\ -\ green\ part\ of\ the\ whole\ avatar\r\n
+comment1.params=
+comment1.target=javafx.scene.shape.Polygon\ createRedAvatar()
+comment1.text=\r\n\ Method\ that\ draws\ a\ polygon\ given\ the\ coordinates\ and\ other\ characteristics\r\n\ @return\ redAvatar\ of\ type\ Polygon\ -\ red\ part\ of\ the\ whole\ avatar\r\n
+comment2.params=answerNode\ xPosition\ yPosition
+comment2.target=boolean\ isColliding(javafx.scene.Node,\ double,\ double)
+comment2.text=\r\n\ Method\ that\ checks\ whether\ mouse\ coordinates\ is\ within\ answer's\ bounds\r\n\ @param\ answerNode\ -\ Node\ representation\ of\ answer\r\n\ @param\ xPosition\ -\ Mouse\ x\ coordinate\ \r\n\ @param\ yPosition\ -\ Mouse\ y\ coordinate\r\n\ @return\ true\ if\ collides\ or\ false\ if\ it\ does\ not\r\n
+comment3.params=arg0\ arg1
+comment3.target=boolean\ impl_computeContains(double,\ double)
+comment4.params=arg0\ arg1
+comment4.target=com.sun.javafx.geom.BaseBounds\ impl_computeGeomBounds(com.sun.javafx.geom.BaseBounds,\ com.sun.javafx.geom.transform.BaseTransform)
+comment5.params=
+comment5.target=com.sun.javafx.sg.prism.NGNode\ impl_createPeer()
+comment6.params=arg0\ arg1
+comment6.target=java.lang.Object\ impl_processMXNode(com.sun.javafx.jmx.MXNodeAlgorithm,\ com.sun.javafx.jmx.MXNodeAlgorithmContext)
+numComments=7

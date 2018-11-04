@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameOver()
+comment0.text=\r\n\ Constructor\ of\ GameOver\ that\ creates\ and\ adds\ together\ the\ game\ over\ sign,\ the\ exit\ route\ and\ their\ background\r\n
+comment1.params=
+comment1.target=javafx.scene.Node\ backRectangle()
+comment1.text=\r\n\ Method\ that\ creates\ the\ background\ for\ the\ game\ over\ sign\ and\ exit\ route\r\n\ @return\ backRetangle\ -\ Rectangle\ in\ Node\ form\ that\ will\ serve\ as\ background\ for\ game\ over\ sign\ and\ exit\ route\r\n
+comment2.params=
+comment2.target=javafx.scene.Node\ exitRoute()
+comment2.text=\r\n\ Method\ that\ creates\ a\ text\ which\ shows\ the\ user\ how\ to\ quit\ the\ game\r\n\ @return\ exitRoute\ -\ Text\ in\ Node\ form\r\n
+comment3.params=
+comment3.target=javafx.scene.Node\ gameOver()
+comment3.text=\r\n\ Method\ that\ creates\ text\ which\ displays\ the\ sign\ GAME\ OVER\r\n\ @return\ gameOver\ -\ Text\ in\ Node\ form\r\n
+numComments=4

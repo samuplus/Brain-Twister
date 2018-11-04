@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sounds()
+comment0.text=\r\n\ Constructor\ that\ creates\ new\ Media\ objects\ according\ to\ the\ sounds\ and\ apply\ them\ to\ the\ MediaPlayer\ variable\r\n
+comment1.params=
+comment1.target=javafx.scene.media.MediaPlayer\ getSelectSound()
+comment1.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ user\ makes\ a\ selection\r\n\ @return\ selectPlayer\r\n
+comment2.params=
+comment2.target=javafx.scene.media.MediaPlayer\ getCorrectSound()
+comment2.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ user\ chooses\ a\ correct\ answer\r\n\ @return\ correctPlayer\r\n
+comment3.params=
+comment3.target=javafx.scene.media.MediaPlayer\ getWrongSound()
+comment3.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ user\ chooses\ a\ wrong\ answer\r\n\ @return\ wrongPlayer\r\n
+comment4.params=
+comment4.target=javafx.scene.media.MediaPlayer\ getStartSound()
+comment4.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ the\ game\ starts\r\n\ @return\ startPlayer\r\n
+comment5.params=
+comment5.target=javafx.scene.media.MediaPlayer\ getLastLifeSound()
+comment5.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ the\ user\ has\ only\ one\ life\ remaining\r\n\ @return\ lastLifePlayer\r\n
+comment6.params=
+comment6.target=javafx.scene.media.MediaPlayer\ getGameOverSound()
+comment6.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ the\ game\ is\ over\r\n\ @return\ gameOverPlayer\r\n
+comment7.params=
+comment7.target=javafx.scene.media.MediaPlayer\ getStartUpSound()
+comment7.text=\r\n\ Method\ that\ gets\ the\ sound\ played\ when\ the\ program\ starts\r\n\ @return\ startUpPlayer\r\n
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=setScore
+comment0.target=ScoreBoard(java.lang.String)
+comment0.text=\r\n\ Constructor\ of\ GameOver\ that\ creates\ and\ adds\ together\ the\ text\ score\ and\ the\ score\ value\r\n
+comment1.params=
+comment1.target=javafx.scene.Node\ scoreValueProp()
+comment1.text=\r\n\ Method\ that\ sets\ text\ properties\ of\ scoreValue\r\n\ @return\ scoreValue\ -\ text\ that\ represents\ the\ value\ of\ the\ score\r\n
+comment2.params=
+comment2.target=javafx.scene.Node\ scoreTextProp()
+comment2.text=\r\n\ Method\ that\ sets\ text\ properties\ of\ scoreText\r\n\ @return\ scoreText\ -\ text\ "SCORE"\r\n
+comment3.params=score
+comment3.target=void\ updateScore(java.lang.String)
+comment3.text=\r\n\ Method\ that\ update\ score\ by\ setting\ the\ value\ of\ score\ to\ the\ text\ of\ scoreValue\r\n\ @param\ score\ -\ integer\ that\ represents\ the\ score\ converted\ into\ String\r\n
+numComments=4

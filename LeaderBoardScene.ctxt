@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LeaderBoardScene
+comment0.text=\n\ LeaderBoardScene\ Class\ -\ responsible\ for\ creating\ the\ graphic\ interface\ of\ the\ leaderboard\ scene\ and\ calling\ the\ method\ that\ displays\ \n\ scores\ from\ a\ file\n\ @author\ Samu\n\n
+comment1.params=highScores
+comment1.target=LeaderBoardScene(java.lang.String)
+comment1.text=\n\ Constructor\ of\ LeaderBoardScene\ -\ assigns\ the\ highSCores\ sent\ on\ parameter\ to\ the\ local\ one\n\ @param\ highScores\ -\ String\ that\ contains\ the\ content\ of\ the\ scores\ file\n
+comment2.params=
+comment2.target=javafx.scene.Parent\ createInstructions()
+comment2.text=\n\ Method\ that\ creates\ a\ new\ Pane\ and\ adds\ to\ it\ an\ image\ background,\ the\ ranking\ with\ username\ and\ score,\ and\ a\ button\ \n\ @return\ root\n
+numComments=3

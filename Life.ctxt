@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=xSpacing
+comment0.target=Life(int)
+comment0.text=\r\n\ Life\ Constructor\ -\ defines\ the\ spacing\ between\ each\ heart\ image\r\n\ @param\ xSpacing\ -\ distance\ between\ each\ heart\ image\r\n
+comment1.params=
+comment1.target=javafx.scene.image.ImageView\ createLife()
+comment1.text=\r\n\ Method\ that\ loads\ the\ heart\ image\ and\ defines\ its\ graphic\ properties\r\n\ @return\ ImageView\ -\ heart\ image\ with\ its\ assigned\ properties\r\n
+comment2.params=arg0\ arg1
+comment2.target=boolean\ impl_computeContains(double,\ double)
+comment3.params=arg0\ arg1
+comment3.target=com.sun.javafx.geom.BaseBounds\ impl_computeGeomBounds(com.sun.javafx.geom.BaseBounds,\ com.sun.javafx.geom.transform.BaseTransform)
+comment4.params=
+comment4.target=com.sun.javafx.sg.prism.NGNode\ impl_createPeer()
+comment5.params=arg0\ arg1
+comment5.target=java.lang.Object\ impl_processMXNode(com.sun.javafx.jmx.MXNodeAlgorithm,\ com.sun.javafx.jmx.MXNodeAlgorithmContext)
+numComments=6

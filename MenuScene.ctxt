@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javafx.scene.Parent\ createMenu()
+comment0.text=\r\n\ Method\ that\ creates\ a\ new\ Pane\ and\ adds\ the\ following\ graphic\ components\ to\ it\:\ background\ image,\ game\ name\ and\ menu\ buttons\ \r\n\ @return\ root\ \r\n
+numComments=1

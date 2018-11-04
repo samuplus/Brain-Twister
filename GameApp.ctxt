@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GameApp
+comment0.text=\n\ GameApp\ Class\ -\ launches\ the\ game\ via\ menu\ and\ sets\ the\ different\ scenes\n\ extends\ Application\ so\ that\ it\ runs\ JavaFx\n\ @author\ Samu\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ -\ launches\ application\n\ @param\ args\n
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\n\ start(Stage)\ -\ is\ launched\ by\ main\ \n
+comment3.params=now
+comment3.target=void\ handle(long)
+comment4.params=root
+comment4.target=void\ recordScore(javafx.scene.layout.Pane)
+comment4.text=\n\ Method\ that\ prompts\ a\ text\ "Type\ your\ name",\ a\ textfield\ for\ the\ user\ to\ input\ his/her\ name\ and\ a\ SEND\ button\ that\ register\ the\ user's\ name\ and\ score\n\ @param\ root\ -\ elements\ must\ be\ added\ to\ root\n
+comment5.params=
+comment5.target=void\ resetGame()
+comment5.text=\n\ Method\ that\ resets\ variables\ required\ for\ game\ to\ be\ playable\ again\ once\ program\ goes\ back\ to\ menu\n
+comment6.params=
+comment6.target=void\ checkLevel()
+comment6.text=\n\ Method\ that\ checks\ whether\ number\ of\ correct\ answers\ is\ enough\ to\ increase\ level\ of\ game\n
+comment7.params=
+comment7.target=void\ isDead()
+comment7.text=\n\ Method\ that\ stops\ timer\n
+comment8.params=
+comment8.target=javafx.scene.shape.Line\ createSeparator()
+comment8.text=\n\ Method\ that\ creates\ a\ separator\n\ @return\ separtor\ -\ line\ that\ will\ be\ placed\ between\ each\ button\n
+numComments=9

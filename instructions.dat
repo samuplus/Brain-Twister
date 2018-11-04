@@ -1,0 +1,10 @@
+1	Use the mouse to move the avatar
+2	As soon as the game starts, you will see the colour you have to aim for on the top left corner
+3	Names of colours in different colours will start dropping from the top of the window
+4	You must touch only the ones that match either the name or the colour of the aimed one
+5	You score if you touch the correct one
+6	You lose a life and points if you touch the incorrect one or if you miss the correct one
+7	On the top right corner is the remaining lives and current score
+8	The game is over when all 3 lives are lost
+9	You may submit your score by typing your name and clicking SEND or pressing ENTER
+10	While playing the game or when the game is over, press ESC anytime to go back to the game menu 

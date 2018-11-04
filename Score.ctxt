@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getScore()
+comment0.text=\r\n\ Method\ used\ to\ obtain\ score\ value\r\n\ @return\ score\r\n
+comment1.params=
+comment1.target=java.lang.String\ getUserName()
+comment1.text=\r\n\ Method\ used\ to\ obtain\ username\r\n\ @return\ userName\r\n
+comment2.params=userName\ score
+comment2.target=Score(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ that\ assigns\ received\ values\ to\ Score\ class\r\n\ @param\ userName\r\n\ @param\ score\r\n
+numComments=3

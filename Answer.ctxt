@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=colorName\ color\ xPosition\ yPosition\ ySpacing
+comment0.target=Answer(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ of\ Answer\ Class\ \r\n\ @param\ colorName\ -\ name\ of\ the\ colour\r\n\ @param\ color\ -\ colour\ itself\r\n\ @param\ xPosition\ -\ x\ coordinate\ \r\n\ @param\ yPosition\ -\ y\ coordinate\r\n\ @param\ ySpacing\ -\ minimum\ y\ distance\ between\ answers\r\n
+comment1.params=
+comment1.target=javafx.scene.text.Text\ createAnswer()
+comment1.text=\r\n\ Method\ that\ sets\ the\ text\ and\ colour\ of\ an\ answer\r\n\ @return\ text\ -\ variable\ of\ type\ Text\ with\ the\ text\ and\ colour\ defined\ at\ the\ constructor\r\n
+comment2.params=arg0\ arg1
+comment2.target=boolean\ impl_computeContains(double,\ double)
+comment3.params=arg0\ arg1
+comment3.target=com.sun.javafx.geom.BaseBounds\ impl_computeGeomBounds(com.sun.javafx.geom.BaseBounds,\ com.sun.javafx.geom.transform.BaseTransform)
+comment4.params=
+comment4.target=com.sun.javafx.sg.prism.NGNode\ impl_createPeer()
+comment5.params=arg0\ arg1
+comment5.target=java.lang.Object\ impl_processMXNode(com.sun.javafx.jmx.MXNodeAlgorithm,\ com.sun.javafx.jmx.MXNodeAlgorithmContext)
+numComments=6
