@@ -10,5 +10,5 @@ The project was a fantastic experience as the envisaged product was successfully
 
 Further details:
 * instructions file can be editable. The instruction number must be followed by the instruction and separated by one tab "\t"
-* scores file cannot be manipulated as the information is in binary code to avoid cheating
+* scores file cannot be manipulated as the information is in binary code to prevent cheating
 * The game is not designed to provide a victory message because it was designed to be practically impossible to run out of attempts
